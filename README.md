@@ -36,4 +36,4 @@ This project includes several SQL queries to analyze Olympic Games data, uncover
 
 - **SQL**: Primary tool for querying and analyzing the dataset.
 
----
+
